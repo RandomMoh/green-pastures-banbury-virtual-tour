@@ -283,7 +283,7 @@
     <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
       <label backgroundcolor="0xffffff" border="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" width="180" background="1" textalpha="1" borderalpha="1" height="20" borderradius="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1"/>
-      <hotspot distance="12.2539" title="Dining Hall" pan="-271.27" id="Point01" tilt="-5.64" skinid="ht_node" description="" url="{node7}" target=""/>
+      <hotspot distance="12.2539" title="Dining Hall" pan="-280.53" id="Point01" tilt="-4.51" skinid="ht_node" description="" url="{node7}" target=""/>
       <hotspot distance="4.27049" title="Dining Hall" pan="-5.75" id="Point02" tilt="-6.27" skinid="ht_node" description="" url="{node12}" target=""/>
       <hotspot distance="5.73978" title="Towards Back Garden" pan="-124.73" id="Point03" tilt="-8.48" skinid="ht_node" description="" url="{node20}" target=""/>
       <hotspot distance="14.897" title="Hall Sitting" pan="-211.67" id="Point04" tilt="-11.69" skinid="ht_node" description="" url="{node30}" target=""/>
@@ -295,6 +295,7 @@
       <hotspot distance="6.0938" title="Kitchen Sitting" pan="-87.38" id="Point10" tilt="-6.4" skinid="ht_node" description="" url="{node21}" target=""/>
       <hotspot distance="14.6305" title="Kitchen" pan="-72.02" id="Point11" tilt="-1.83" skinid="ht_node" description="" url="{node22}" target=""/>
       <hotspot distance="35.3266" title="Reception + Hallway" pan="-311.76" id="Point12" tilt="-3.44" skinid="ht_node" description="" url="{node4}" target=""/>
+      <hotspot target="" title="Bathroom" pan="-260.29" id="Point13" tilt="-6.37" skinid="ht_node" description="" url="{node42}"/>
     </hotspots>
     <media/>
     <transition delay="none" type="crossdissolve" zoomfov="40" zoomout="0" enabled="1" zoomafterinfov="140" zoomspeed="2" blendtime="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" zoomin="0"/>
@@ -332,6 +333,7 @@
       <hotspot distance="12.4206" title="Kitchen" pan="-106.71" id="Point10" tilt="-1.25" skinid="ht_node" description="" url="{node22}" target=""/>
       <hotspot distance="15.9405" title="Dining Hall" pan="-230.03" id="Point11" tilt="-3.38" skinid="ht_node" description="" url="{node7}" target=""/>
       <hotspot distance="16.2982" title="Hall Sitting" pan="-198.71" id="Point12" tilt="-2.66" skinid="ht_node" description="" url="{node30}" target=""/>
+      <hotspot target="" title="Bathroom" pan="-216.31" id="Point13" tilt="-4.02" skinid="ht_node" description="" url="{node42}"/>
     </hotspots>
     <media/>
     <transition delay="none" type="crossdissolve" zoomfov="40" zoomout="0" enabled="1" zoomafterinfov="140" zoomspeed="2" blendtime="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" zoomin="0"/>
@@ -482,8 +484,9 @@
       <hotspot target="" title="First Floor Hallway" pan="-350.42" id="Point07" tilt="-3.42" skinid="ht_node" description="" url="{node31}"/>
       <hotspot distance="21.9035" title="Kitchen" pan="-168.74" id="Point08" tilt="-3.69" skinid="ht_node" description="" url="{node22}" target=""/>
       <hotspot distance="20.5426" title="Towards Activity Room" pan="-92.5" id="Point09" tilt="-9.3" skinid="ht_node" description="" url="{node8}" target=""/>
-      <hotspot distance="11.9911" title="Dining Hall" pan="-334.65" id="Point10" tilt="-2.84" skinid="ht_node" description="" url="{node7}" target=""/>
+      <hotspot distance="11.9911" title="Dining Hall" pan="-338.54" id="Point10" tilt="-2.7" skinid="ht_node" description="" url="{node7}" target=""/>
       <hotspot distance="7.18629" title="Hall Sitting" pan="-317.68" id="Point11" tilt="-4" skinid="ht_node" description="" url="{node30}" target=""/>
+      <hotspot target="" title="Bathroom" pan="-328.34" id="Point12" tilt="-2.24" skinid="ht_node" description="" url="{node42}"/>
     </hotspots>
     <media/>
     <transition delay="none" type="crossdissolve" zoomfov="40" zoomout="0" enabled="1" zoomafterinfov="140" zoomspeed="2" blendtime="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" zoomin="0"/>
@@ -814,7 +817,6 @@
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1"/>
       <hotspot target="" title="First Floor Hallway" pan="-181.77" id="Point01" tilt="-4.01" skinid="ht_node" description="" url="{node31}"/>
       <hotspot target="" title="First Floor Hall 2" pan="-141.77" id="Point02" tilt="-4.69" skinid="ht_node" description="" url="{node33}"/>
-      <hotspot target="" title="Bathroom" pan="-151.7" id="Point03" tilt="-3.06" skinid="ht_node" description="" url="{node42}"/>
     </hotspots>
     <media/>
     <transition delay="none" type="crossdissolve" zoomfov="40" zoomout="0" enabled="1" zoomafterinfov="140" zoomspeed="2" blendtime="1" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" zoomin="0"/>
@@ -844,7 +846,6 @@
       <hotspot target="" title="First Floor Hallway" pan="-177.37" id="Point03" tilt="-11.55" skinid="ht_node" description="" url="{node35}"/>
       <hotspot target="" title="Ground Floor" pan="-92.13" id="Point04" tilt="-15.78" skinid="ht_node" description="" url="{node6}"/>
       <hotspot target="" title="Second Floor" pan="-91.73" id="Point05" tilt="-2.25" skinid="ht_node" description="" url="{node49}"/>
-      <hotspot target="" title="Bathroom" pan="-40.33" id="Point02" tilt="-4.08" skinid="ht_node" description="" url="{node42}"/>
       <hotspot target="" title="First Floor Hall 2" pan="-347.24" id="Point07" tilt="-10.84" skinid="ht_node" description="" url="{node33}"/>
     </hotspots>
     <media/>
